@@ -4,14 +4,14 @@
   "description": "Just a method that prints 'hello, world'",
   "repository": {
     "type": "git",
-    "url": "git://github.com/seanewest/hello-world-classic"
+    "url": "git://github.com/alexanmtz/hello-world-classic"
   },
-  "homepage": "https://github.com/seanewest/hello-world-classic",
+  "homepage": "https://github.com/alexanmtz/hello-world-classic",
   "keywords": [
     "hello",
     "world"
   ],
   "main": "index.js",
-  "author": "Sean West",
+  "author": "Alexandre Magno",
   "license": "MIT"
 }
